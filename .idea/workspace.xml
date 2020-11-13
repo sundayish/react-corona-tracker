@@ -2,29 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="b5c3dc87-b432-46be-9f54-c1877823bf8f" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/prettier.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/App.module.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/api/index.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/Cards/Cards.jsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/Cards/Cards.module.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/Chart/Chart.jsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/Chart/Chart.module.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/CountryPicker/CountryPicker.jsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/CountryPicker/CountryPicker.module.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/index.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/App.css" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/src/App.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/App.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/App.test.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/index.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/index.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/logo.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/reportWebVitals.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/setupTests.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/Cards/Cards.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Cards/Cards.jsx" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -76,7 +58,8 @@
       <option name="presentableId" value="Default" />
       <updated>1605270582363</updated>
       <workItem from="1605270583574" duration="3766000" />
-      <workItem from="1605285038420" duration="1815000" />
+      <workItem from="1605285038420" duration="1860000" />
+      <workItem from="1605304345028" duration="3501000" />
     </task>
     <task id="LOCAL-00001" summary="Initial commit">
       <created>1605272475088</created>
@@ -85,7 +68,14 @@
       <option name="project" value="LOCAL" />
       <updated>1605272475088</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Add: Basic fetch functionality">
+      <created>1605286906296</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1605286906296</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -93,7 +83,8 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Initial commit" />
-    <option name="LAST_COMMIT_MESSAGE" value="Initial commit" />
+    <MESSAGE value="Add: Basic fetch functionality" />
+    <option name="LAST_COMMIT_MESSAGE" value="Add: Basic fetch functionality" />
     <option name="OPTIMIZE_IMPORTS_BEFORE_PROJECT_COMMIT" value="true" />
     <option name="REFORMAT_BEFORE_PROJECT_COMMIT" value="true" />
   </component>
@@ -102,10 +93,10 @@
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
     <state x="736" y="320" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1920.1080/-1920.0.1920.1080@0.0.1920.1080" timestamp="1605272564247" />
-    <state x="583" y="36" key="CommitChangelistDialog2" timestamp="1605272473162">
+    <state x="583" y="36" key="CommitChangelistDialog2" timestamp="1605286903474">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
-    <state x="583" y="36" key="CommitChangelistDialog2/0.0.1920.1080/-1920.0.1920.1080@0.0.1920.1080" timestamp="1605272473162" />
+    <state x="583" y="36" key="CommitChangelistDialog2/0.0.1920.1080/-1920.0.1920.1080@0.0.1920.1080" timestamp="1605286903474" />
     <state x="851" y="323" key="FileChooserDialogImpl" timestamp="1605286663355">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
@@ -114,9 +105,13 @@
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
     <state x="417" y="58" width="1308" height="1022" key="SettingsEditor/0.0.1920.1080/-1920.0.1920.1080@0.0.1920.1080" timestamp="1605286701604" />
-    <state x="623" y="235" width="672" height="678" key="search.everywhere.popup" timestamp="1605286627988">
+    <state x="552" y="268" key="Vcs.Push.Dialog.v2" timestamp="1605286908809">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
-    <state x="623" y="235" width="672" height="678" key="search.everywhere.popup/0.0.1920.1080/-1920.0.1920.1080@0.0.1920.1080" timestamp="1605286627988" />
+    <state x="552" y="268" key="Vcs.Push.Dialog.v2/0.0.1920.1080/-1920.0.1920.1080@0.0.1920.1080" timestamp="1605286908809" />
+    <state x="623" y="235" width="672" height="678" key="search.everywhere.popup" timestamp="1605304980623">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="623" y="235" width="672" height="678" key="search.everywhere.popup/0.0.1920.1080/-1920.0.1920.1080@0.0.1920.1080" timestamp="1605304980623" />
   </component>
 </project>
