@@ -2,8 +2,20 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="b5c3dc87-b432-46be-9f54-c1877823bf8f" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/watcherTasks.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/Cards/Card/Card.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/Cards/Card/Card.module.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/App.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/App.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/App.module.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/App.module.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/api/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/api/index.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/components/Cards/Cards.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Cards/Cards.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/Cards/Cards.module.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Cards/Cards.module.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/Chart/Chart.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Chart/Chart.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/Chart/Chart.module.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Chart/Chart.module.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/CountryPicker/CountryPicker.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/CountryPicker/CountryPicker.jsx" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -31,6 +43,7 @@
   <component name="PropertiesComponent">
     <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
     <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="NewWatcherDialog.advanced.open" value="true" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
@@ -46,6 +59,11 @@
     <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\Code\react-corona-tracker\src\components\Cards\Card" />
+    </key>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -57,7 +75,11 @@
       <workItem from="1605270583574" duration="3766000" />
       <workItem from="1605285038420" duration="1860000" />
       <workItem from="1605304345028" duration="4454000" />
-      <workItem from="1605347581623" duration="298000" />
+      <workItem from="1605347581623" duration="1731000" />
+      <workItem from="1605365032955" duration="8517000" />
+      <workItem from="1605374659180" duration="1180000" />
+      <workItem from="1605375896529" duration="873000" />
+      <workItem from="1605387694147" duration="7075000" />
     </task>
     <task id="LOCAL-00001" summary="Initial commit">
       <created>1605272475088</created>
@@ -87,7 +109,14 @@
       <option name="project" value="LOCAL" />
       <updated>1605308840291</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="Add: All dates">
+      <created>1605348137628</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1605348137628</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -98,36 +127,53 @@
     <MESSAGE value="Add: Basic fetch functionality" />
     <MESSAGE value="Add: CountUp functionality for the infected people" />
     <MESSAGE value="Add: All value numbers" />
-    <option name="LAST_COMMIT_MESSAGE" value="Add: All value numbers" />
+    <MESSAGE value="Add: All dates" />
+    <option name="LAST_COMMIT_MESSAGE" value="Add: All dates" />
     <option name="OPTIMIZE_IMPORTS_BEFORE_PROJECT_COMMIT" value="true" />
     <option name="REFORMAT_BEFORE_PROJECT_COMMIT" value="true" />
   </component>
   <component name="WindowStateProjectService">
+    <state x="-1677" y="371" key="#Notifications" timestamp="1605347607960">
+      <screen x="-1920" y="0" width="1920" height="1080" />
+    </state>
+    <state x="-1677" y="371" key="#Notifications/0.0.1920.1080/-1920.0.1920.1080@-1920.0.1920.1080" timestamp="1605347607960" />
     <state x="736" y="320" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1605272564247">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
     <state x="736" y="320" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1920.1080/-1920.0.1920.1080@0.0.1920.1080" timestamp="1605272564247" />
-    <state x="-1337" y="36" key="CommitChangelistDialog2" timestamp="1605308838641">
-      <screen x="-1920" y="0" width="1920" height="1080" />
+    <state x="890" y="243" key="#com.intellij.ide.macro.MacrosDialog" timestamp="1605366576000">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="890" y="243" key="#com.intellij.ide.macro.MacrosDialog/0.0.1920.1080/-1920.0.1920.1080@0.0.1920.1080" timestamp="1605366576000" />
+    <state x="583" y="36" key="CommitChangelistDialog2" timestamp="1605348135020">
+      <screen x="0" y="0" width="1920" height="1080" />
     </state>
     <state x="-1337" y="36" key="CommitChangelistDialog2/0.0.1920.1080/-1920.0.1920.1080@-1920.0.1920.1080" timestamp="1605308838641" />
-    <state x="583" y="36" key="CommitChangelistDialog2/0.0.1920.1080/-1920.0.1920.1080@0.0.1920.1080" timestamp="1605286903474" />
-    <state x="851" y="323" key="FileChooserDialogImpl" timestamp="1605286663355">
+    <state x="583" y="36" key="CommitChangelistDialog2/0.0.1920.1080/-1920.0.1920.1080@0.0.1920.1080" timestamp="1605348135020" />
+    <state x="753" y="316" width="715" height="689" key="EditFileWatcherDialog" timestamp="1605367035825">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
-    <state x="851" y="323" key="FileChooserDialogImpl/0.0.1920.1080/-1920.0.1920.1080@0.0.1920.1080" timestamp="1605286663355" />
-    <state x="417" y="58" width="1308" height="1022" key="SettingsEditor" timestamp="1605286701604">
+    <state x="753" y="316" width="715" height="689" key="EditFileWatcherDialog/0.0.1920.1080/-1920.0.1920.1080@0.0.1920.1080" timestamp="1605367035825" />
+    <state x="851" y="323" key="FileChooserDialogImpl" timestamp="1605366535902">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
-    <state x="417" y="58" width="1308" height="1022" key="SettingsEditor/0.0.1920.1080/-1920.0.1920.1080@0.0.1920.1080" timestamp="1605286701604" />
+    <state x="851" y="323" key="FileChooserDialogImpl/0.0.1920.1080/-1920.0.1920.1080@0.0.1920.1080" timestamp="1605366535902" />
+    <state x="540" y="274" key="IDE.errors.dialog" timestamp="1605367488971">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="540" y="274" key="IDE.errors.dialog/0.0.1920.1080/-1920.0.1920.1080@0.0.1920.1080" timestamp="1605367488971" />
+    <state x="459" y="21" width="1308" height="1022" key="SettingsEditor" timestamp="1605367269339">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="459" y="21" width="1308" height="1022" key="SettingsEditor/0.0.1920.1080/-1920.0.1920.1080@0.0.1920.1080" timestamp="1605367269339" />
     <state x="-1368" y="268" key="Vcs.Push.Dialog.v2" timestamp="1605308841571">
       <screen x="-1920" y="0" width="1920" height="1080" />
     </state>
     <state x="-1368" y="268" key="Vcs.Push.Dialog.v2/0.0.1920.1080/-1920.0.1920.1080@-1920.0.1920.1080" timestamp="1605308841571" />
     <state x="552" y="268" key="Vcs.Push.Dialog.v2/0.0.1920.1080/-1920.0.1920.1080@0.0.1920.1080" timestamp="1605286908809" />
-    <state x="623" y="235" width="672" height="678" key="search.everywhere.popup" timestamp="1605304980623">
+    <state x="623" y="235" width="672" height="678" key="search.everywhere.popup" timestamp="1605389571403">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
-    <state x="623" y="235" width="672" height="678" key="search.everywhere.popup/0.0.1920.1080/-1920.0.1920.1080@0.0.1920.1080" timestamp="1605304980623" />
+    <state x="623" y="235" width="672" height="678" key="search.everywhere.popup/0.0.1920.1080/-1920.0.1920.1080@0.0.1920.1080" timestamp="1605389571403" />
   </component>
 </project>
