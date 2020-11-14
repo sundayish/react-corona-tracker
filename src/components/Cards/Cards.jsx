@@ -24,7 +24,9 @@ const Cards = ({ data: { confirmed, recovered, deaths, lastUpdate } }) => {
                 separator=","
               />
             </Typography>
-            <Typography colr="textSecondary">REAL DATE</Typography>
+            <Typography colr="textSecondary">
+              {new Date(lastUpdate).toDateString()}
+            </Typography>
             <Typography variant="body2">Number of active cases</Typography>
           </CardContent>
         </Grid>
@@ -41,7 +43,9 @@ const Cards = ({ data: { confirmed, recovered, deaths, lastUpdate } }) => {
                 separator=","
               />
             </Typography>
-            <Typography colr="textSecondary">REAL DATE</Typography>
+            <Typography colr="textSecondary">
+              {new Date(lastUpdate).toDateString()}
+            </Typography>
             <Typography variant="body2">Number of recoveries</Typography>
           </CardContent>
         </Grid>
@@ -58,7 +62,9 @@ const Cards = ({ data: { confirmed, recovered, deaths, lastUpdate } }) => {
                 separator=","
               />
             </Typography>
-            <Typography colr="textSecondary">REAL DATE</Typography>
+            <Typography colr="textSecondary">
+              {new Date(lastUpdate).toDateString()}
+            </Typography>
             <Typography variant="body2">Number of deaths</Typography>
           </CardContent>
         </Grid>

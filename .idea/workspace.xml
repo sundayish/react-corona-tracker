@@ -56,7 +56,8 @@
       <updated>1605270582363</updated>
       <workItem from="1605270583574" duration="3766000" />
       <workItem from="1605285038420" duration="1860000" />
-      <workItem from="1605304345028" duration="4417000" />
+      <workItem from="1605304345028" duration="4454000" />
+      <workItem from="1605347581623" duration="298000" />
     </task>
     <task id="LOCAL-00001" summary="Initial commit">
       <created>1605272475088</created>
@@ -79,7 +80,14 @@
       <option name="project" value="LOCAL" />
       <updated>1605308021239</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="Add: All value numbers">
+      <created>1605308840291</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1605308840291</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -89,7 +97,8 @@
     <MESSAGE value="Initial commit" />
     <MESSAGE value="Add: Basic fetch functionality" />
     <MESSAGE value="Add: CountUp functionality for the infected people" />
-    <option name="LAST_COMMIT_MESSAGE" value="Add: CountUp functionality for the infected people" />
+    <MESSAGE value="Add: All value numbers" />
+    <option name="LAST_COMMIT_MESSAGE" value="Add: All value numbers" />
     <option name="OPTIMIZE_IMPORTS_BEFORE_PROJECT_COMMIT" value="true" />
     <option name="REFORMAT_BEFORE_PROJECT_COMMIT" value="true" />
   </component>
@@ -98,10 +107,10 @@
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
     <state x="736" y="320" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1920.1080/-1920.0.1920.1080@0.0.1920.1080" timestamp="1605272564247" />
-    <state x="-1337" y="36" key="CommitChangelistDialog2" timestamp="1605308019049">
+    <state x="-1337" y="36" key="CommitChangelistDialog2" timestamp="1605308838641">
       <screen x="-1920" y="0" width="1920" height="1080" />
     </state>
-    <state x="-1337" y="36" key="CommitChangelistDialog2/0.0.1920.1080/-1920.0.1920.1080@-1920.0.1920.1080" timestamp="1605308019049" />
+    <state x="-1337" y="36" key="CommitChangelistDialog2/0.0.1920.1080/-1920.0.1920.1080@-1920.0.1920.1080" timestamp="1605308838641" />
     <state x="583" y="36" key="CommitChangelistDialog2/0.0.1920.1080/-1920.0.1920.1080@0.0.1920.1080" timestamp="1605286903474" />
     <state x="851" y="323" key="FileChooserDialogImpl" timestamp="1605286663355">
       <screen x="0" y="0" width="1920" height="1080" />
@@ -111,10 +120,10 @@
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
     <state x="417" y="58" width="1308" height="1022" key="SettingsEditor/0.0.1920.1080/-1920.0.1920.1080@0.0.1920.1080" timestamp="1605286701604" />
-    <state x="-1368" y="268" key="Vcs.Push.Dialog.v2" timestamp="1605308024375">
+    <state x="-1368" y="268" key="Vcs.Push.Dialog.v2" timestamp="1605308841571">
       <screen x="-1920" y="0" width="1920" height="1080" />
     </state>
-    <state x="-1368" y="268" key="Vcs.Push.Dialog.v2/0.0.1920.1080/-1920.0.1920.1080@-1920.0.1920.1080" timestamp="1605308024375" />
+    <state x="-1368" y="268" key="Vcs.Push.Dialog.v2/0.0.1920.1080/-1920.0.1920.1080@-1920.0.1920.1080" timestamp="1605308841571" />
     <state x="552" y="268" key="Vcs.Push.Dialog.v2/0.0.1920.1080/-1920.0.1920.1080@0.0.1920.1080" timestamp="1605286908809" />
     <state x="623" y="235" width="672" height="678" key="search.everywhere.popup" timestamp="1605304980623">
       <screen x="0" y="0" width="1920" height="1080" />
