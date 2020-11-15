@@ -23,7 +23,7 @@ const CountryPicker = ({ handleCountryChange }) => {
           handleCountryChange(e.target.value);
         }}
       >
-        <option value="Global">Global</option>
+        <option value="">Global</option>
         //Populating list with all countries from the database
         {countries.map(({ name, alpha2 }, i) => (
           <option key={i} value={alpha2}>
